@@ -1,0 +1,19 @@
+{
+  "name": "note-app-node",
+  "version": "1.0.0",
+  "description": "appnote",
+  "main": "app.js",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Note-app-with-node"
+  },
+  "author": "Zied",
+  "license": "ISC"
+}
